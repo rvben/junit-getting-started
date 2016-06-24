@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * Created by ruben on 24-6-2016.
+ * Created by rjongejan on 24-6-2016.
  */
 public class ExampleMethodsTest {
     @BeforeClass
@@ -14,22 +14,22 @@ public class ExampleMethodsTest {
     }
 
     @Test
-    public void plusFive() {
+    public void testPlusFive() {
+        
+    }
+
+    @Test
+    public void testStringToStling() {
 
     }
 
     @Test
-    public void stringToStling() {
+    public void testToUppercase() {
 
     }
 
     @Test
-    public void toUppercase() {
-
-    }
-
-    @Test
-    public void stitchTogether() {
+    public void testStitchTogether() {
 
     }
 
